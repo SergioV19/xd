@@ -6,6 +6,7 @@ import view.IoManager;
 public class Control {
 
 	private IoManager io;
+	private int variableGlobalXd;
 	private Matriz matriz;
 	
 	
