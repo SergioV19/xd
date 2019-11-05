@@ -7,6 +7,7 @@ public class Control {
 
 	private IoManager io;
 	private double ola;
+	private double ola2;
 	private Matriz matriz;
 	
 	
